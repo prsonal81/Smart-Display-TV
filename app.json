@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Smart Display App",
+    "slug": "smart-display-app",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.tuempresa.smartdisplay",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.tuempresa.smartdisplay"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
